@@ -69,6 +69,7 @@ body{
   margin: 500px auto;
   }
   .header{
+  background-image: url('IMG0.png');
   height: 400px;
   width: 50%;
   float: right;
