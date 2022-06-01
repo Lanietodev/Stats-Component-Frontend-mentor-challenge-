@@ -52,10 +52,10 @@ body{
   flex-direction: column;
   text-align: center;
   margin-top: 40px;
+  font-size: 10px;
 }
 .stats h1 p{
   font-family: 'Lexend Deca';
-  font-size:10px;
   font-weight:400;
 }
 .stats h1{
