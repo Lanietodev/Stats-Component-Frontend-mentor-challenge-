@@ -53,10 +53,10 @@ body{
   text-align: center;
   margin-top: 40px;
   font-size: 10px;
+  font-weight: 400;
 }
 .stats h1 p{
   font-family: 'Lexend Deca';
-  font-weight:400;
 }
 .stats h1{
   color: white;
