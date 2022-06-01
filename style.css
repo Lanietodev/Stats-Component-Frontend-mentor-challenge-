@@ -55,14 +55,13 @@ body{
   font-size: 10px;
   font-weight: 400;
 }
-.stats h1 p{
-  font-family: 'Lexend Deca';
-}
 .stats h1{
   color: white;
+  font-family: 'Lexend Deca';
 }
 .stats p{
   color: hsla(0, 0%, 100%, 0.75);
+  font-family: 'Lexend Deca';
 }
 @media screen and (min-width:750px){
   .container{
